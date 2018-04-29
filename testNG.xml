@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name = "Regression Suite">
+    <listeners>
+        <!--<listener class-name="com.test.automation.customListener.Listener"></listener>-->
+        <listener class-name="com.test.automation.customListener.RetryListener"></listener>
+    </listeners>
+<test name = "Verify HomePage">
+    <classes>
+        <!--<class name="com.test.automation.homepage.TC002_VerifyRegistartion"></class>-->
+        <class name="com.test.automation.homepage.TC003_VerifyLoginWithDifferentRecords"></class>
+
+    </classes>
+</test>
+    <test name = "Verify Add to Cart">
+        <classes>
+            <class name="com.test.automation.addToCart.TC001_VerifyAddToCart"></class>
+            <class name="com.test.automation.addToCart.TC002_VerifyFacebookLink"></class>
+
+        </classes>
+
+    </test>
+</suite>
