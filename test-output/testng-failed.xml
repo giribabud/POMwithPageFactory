@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="uiAutomation(failed)">
+    <classes>
+      <class name="com.test.automation.homepage.TC002_VerifyRegistartion">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+          <include name="endTest"/>
+          <include name="testLogin"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.test.automation.homepage.TC002_VerifyRegistartion -->
+    </classes>
+  </test> <!-- uiAutomation(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

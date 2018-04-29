@@ -1,0 +1,620 @@
+==============Starting TC001_VerifyLoginWithInvalidCredentials Test====
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (5650f61211195d138029d67fb09c5e1b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (5650f61211195d138029d67fb09c5e1b)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (5650f61211195d138029d67fb09c5e1b)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (5650f61211195d138029d67fb09c5e1b)] -> id: SubmitLogin]
+Error message isAuthentication failed.
+==============Finished TC001_VerifyLoginWithInvalidCredentials Test====
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (b1041cd468ce66d34738a4a42f9a6368)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1234@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (b1041cd468ce66d34738a4a42f9a6368)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (b1041cd468ce66d34738a4a42f9a6368)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :Bangalore
+Entering the City and Object is :9916822777
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (37bf4c25ce8c7a2faa71ea216363107d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1234@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (37bf4c25ce8c7a2faa71ea216363107d)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (37bf4c25ce8c7a2faa71ea216363107d)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :Bangalore
+Entering the City and Object is :9916822777
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (293eb77922b54149c9eef41359973ae2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1234@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (293eb77922b54149c9eef41359973ae2)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (293eb77922b54149c9eef41359973ae2)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :Bangalore
+Entering the City and Object is :9916822777
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (fa8006f41076eca960f3f6f6a3e74bef)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1234@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (fa8006f41076eca960f3f6f6a3e74bef)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (fa8006f41076eca960f3f6f6a3e74bef)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :Bangalore
+Entering the City and Object is :9916822777
+Selceting the state and object is :[[ChromeDriver: chrome on XP (fa8006f41076eca960f3f6f6a3e74bef)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :[[ChromeDriver: chrome on XP (fa8006f41076eca960f3f6f6a3e74bef)] -> id: postcode]
+ENtering the phone mobile and object is :35006
+Entering the alias and object is :BTM
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (edcbafd6adaacebf90141c6ce41d5fa9)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1234@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (edcbafd6adaacebf90141c6ce41d5fa9)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (edcbafd6adaacebf90141c6ce41d5fa9)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :Bangalore
+Entering the City and Object is :86874545
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (d9448dacafc0b959ea19aff1f19479a2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1234@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (d9448dacafc0b959ea19aff1f19479a2)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (d9448dacafc0b959ea19aff1f19479a2)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :Bangalore
+Entering the City and Object is :86874545
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (6d709f21d2cd647b9cab603de17f48d7)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1234@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (6d709f21d2cd647b9cab603de17f48d7)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (6d709f21d2cd647b9cab603de17f48d7)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (6d709f21d2cd647b9cab603de17f48d7)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (6bcfb6ddaace28616280f388f6600220)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest12345@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (6bcfb6ddaace28616280f388f6600220)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (6bcfb6ddaace28616280f388f6600220)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (6bcfb6ddaace28616280f388f6600220)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (53e1ee129b34129e364cc136d3a30aac)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest12345@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (53e1ee129b34129e364cc136d3a30aac)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (4bdaf9e16543567d8933472b3eb1220b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1235@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (4bdaf9e16543567d8933472b3eb1220b)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (4bdaf9e16543567d8933472b3eb1220b)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (4bdaf9e16543567d8933472b3eb1220b)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (b0ede71b84abaccd410de5a5e8785b67)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest1235@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (b0ede71b84abaccd410de5a5e8785b67)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (bae0f85ea0188c72380d1059826742ba)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest125@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (bae0f85ea0188c72380d1059826742ba)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (bae0f85ea0188c72380d1059826742ba)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (bae0f85ea0188c72380d1059826742ba)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Verify user registration msg:Proxy element for: DefaultElementLocator 'By.xpath: //div[@class ='header_user_info']/div[1]/span'
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (b4003b52e0be9b6ab81e23fd844da75d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest125@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (b4003b52e0be9b6ab81e23fd844da75d)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (ef0b3c696b548b419298091546016204)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest125@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (ef0b3c696b548b419298091546016204)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (4f174522819a2df430e90add570df5ec)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest3455@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (4f174522819a2df430e90add570df5ec)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (4f174522819a2df430e90add570df5ec)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (4f174522819a2df430e90add570df5ec)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (384ce3e5695726dbd9d7dd2eadf8586e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (384ce3e5695726dbd9d7dd2eadf8586e)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (384ce3e5695726dbd9d7dd2eadf8586e)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (384ce3e5695726dbd9d7dd2eadf8586e)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (cf0ffb835b7998c37b8bf5e3204e11c1)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (cf0ffb835b7998c37b8bf5e3204e11c1)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (cf0ffb835b7998c37b8bf5e3204e11c1)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (cf0ffb835b7998c37b8bf5e3204e11c1)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (e31fd9b1bc87bc99e47537d1bc7fbab2)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e446aa330d6dc8113a72a10a6b921a3a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e446aa330d6dc8113a72a10a6b921a3a)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e446aa330d6dc8113a72a10a6b921a3a)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e446aa330d6dc8113a72a10a6b921a3a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (b4d996dfd8222d7bdf40ecc10efc39d9)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (b4d996dfd8222d7bdf40ecc10efc39d9)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (b4d996dfd8222d7bdf40ecc10efc39d9)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (aa849e8d1582bc2151c06ad2c04fb5b8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (aa849e8d1582bc2151c06ad2c04fb5b8)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (aa849e8d1582bc2151c06ad2c04fb5b8)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (aa849e8d1582bc2151c06ad2c04fb5b8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is [[ChromeDriver: chrome on XP (5f79df50c65649808cd76eb1d7f28126)] -> id: SubmitLogin]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (4ceac04525fd5a387c0fbb044c294e44)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (4ceac04525fd5a387c0fbb044c294e44)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (4ceac04525fd5a387c0fbb044c294e44)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (4ceac04525fd5a387c0fbb044c294e44)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (457e73ccead2d43cc9beec68df7e0210)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (457e73ccead2d43cc9beec68df7e0210)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (457e73ccead2d43cc9beec68df7e0210)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (457e73ccead2d43cc9beec68df7e0210)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (457e73ccead2d43cc9beec68df7e0210)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (457e73ccead2d43cc9beec68df7e0210)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (457e73ccead2d43cc9beec68df7e0210)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (bc1c25165c7f5360fd4cd23c12d2dac5)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (7ffe4fdd2783b661bc76c694dcc11a7b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (7ffe4fdd2783b661bc76c694dcc11a7b)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (7ffe4fdd2783b661bc76c694dcc11a7b)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (23a427ec67f01fa9d3b31f11a5177f9b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (23a427ec67f01fa9d3b31f11a5177f9b)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (23a427ec67f01fa9d3b31f11a5177f9b)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (d1ddef7aa38c04a8d8430a97ffc4b533)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (d1ddef7aa38c04a8d8430a97ffc4b533)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (d1ddef7aa38c04a8d8430a97ffc4b533)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (0ed55230aab11ea3fbf526cc08f863df)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (0ed55230aab11ea3fbf526cc08f863df)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (0ed55230aab11ea3fbf526cc08f863df)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (2fcb9d523e3e4812d5b3da4b9df19771)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (2fcb9d523e3e4812d5b3da4b9df19771)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (2fcb9d523e3e4812d5b3da4b9df19771)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (243f25436a1a505a2102bb426149fd76)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (243f25436a1a505a2102bb426149fd76)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (243f25436a1a505a2102bb426149fd76)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (7ac806ad100b230119972e6699c70507)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (7ac806ad100b230119972e6699c70507)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (7ac806ad100b230119972e6699c70507)] -> xpath: .//*[@id='passwd']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (b8896727673244699e5eef7304d2f393)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (b8896727673244699e5eef7304d2f393)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (b8896727673244699e5eef7304d2f393)] -> xpath: .//*[@id='passwd']]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (8a6c38d96a7691175a177af18bfed96d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest3455@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (8a6c38d96a7691175a177af18bfed96d)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (69cc7641dbcb06c286859945fc460c06)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest3455@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (69cc7641dbcb06c286859945fc460c06)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (1b096615d3dd5bfd953da27d5758a860)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest3455@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (1b096615d3dd5bfd953da27d5758a860)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (f6d7cb12589a91a2b6f78a0ed1f3b117)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest3155@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (f6d7cb12589a91a2b6f78a0ed1f3b117)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (f6d7cb12589a91a2b6f78a0ed1f3b117)] -> id: id_gender1]
+Entering the firstname and object is :giri
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (baa0e39116563450ad848fb3a1713644)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest3155@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (baa0e39116563450ad848fb3a1713644)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (baa0e39116563450ad848fb3a1713644)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (baa0e39116563450ad848fb3a1713644)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Verify user registration msg:Proxy element for: DefaultElementLocator 'By.xpath: //div[@class ='header_user_info']/div[1]/span'
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (9ee0abddaee53af49ef382a4f1f6369d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest3155@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (9ee0abddaee53af49ef382a4f1f6369d)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (e15ebd83ee9bbc0e00428592a50f8da6)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (e15ebd83ee9bbc0e00428592a50f8da6)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (e15ebd83ee9bbc0e00428592a50f8da6)] -> id: id_gender1]
+Entering the firstname and object is :giri
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (481649691adada424632706601e078be)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (481649691adada424632706601e078be)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (481649691adada424632706601e078be)] -> id: id_gender1]
+Entering the firstname and object is :giri
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (04763603e38daf0f2f62f7ce4d209a39)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (04763603e38daf0f2f62f7ce4d209a39)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (04763603e38daf0f2f62f7ce4d209a39)] -> id: id_gender1]
+Entering the firstname and object is :giri
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (400310cd67b5b46392b36b0ee93dbf77)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (400310cd67b5b46392b36b0ee93dbf77)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (400310cd67b5b46392b36b0ee93dbf77)] -> id: id_gender1]
+Entering the firstname and object is :giri
+=========== Starting Verify add to cart ===========
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (16ee11a4353cdc77d23f8d6d00dc7f14)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (16ee11a4353cdc77d23f8d6d00dc7f14)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (16ee11a4353cdc77d23f8d6d00dc7f14)] -> id: id_gender1]
+Entering the firstname and object is :giri
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (bda56424138bea959c8efa007a32573d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (bda56424138bea959c8efa007a32573d)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (bda56424138bea959c8efa007a32573d)] -> id: id_gender1]
+Entering the firstname and object is :giri
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (1fdfabab28818fe11f6db7c760680b0b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (1fdfabab28818fe11f6db7c760680b0b)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (1fdfabab28818fe11f6db7c760680b0b)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (1fdfabab28818fe11f6db7c760680b0b)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Verify user registration msg:Proxy element for: DefaultElementLocator 'By.xpath: //div[@class ='header_user_info']/div[1]/span'
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (e79028a85c337fba22e52b52c579525d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (e79028a85c337fba22e52b52c579525d)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (911182bde6bcff7eea3951e496bbb79d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (911182bde6bcff7eea3951e496bbb79d)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (440b5914f551ec51e7f798ca590d3ad9)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (440b5914f551ec51e7f798ca590d3ad9)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (440b5914f551ec51e7f798ca590d3ad9)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (440b5914f551ec51e7f798ca590d3ad9)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (440b5914f551ec51e7f798ca590d3ad9)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (440b5914f551ec51e7f798ca590d3ad9)] -> id: SubmitCreate]
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (2ca185ef4f7dc26e27db25b351f6252c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (2ca185ef4f7dc26e27db25b351f6252c)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (2ca185ef4f7dc26e27db25b351f6252c)] -> xpath: .//*[@id='passwd']]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (df65a55bd779695192cc2d8c2c094533)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (df65a55bd779695192cc2d8c2c094533)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (df65a55bd779695192cc2d8c2c094533)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (df65a55bd779695192cc2d8c2c094533)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (df65a55bd779695192cc2d8c2c094533)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest55@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (df65a55bd779695192cc2d8c2c094533)] -> id: SubmitCreate]
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (d2d37177f8b0302090fec6169ab4d5d8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest9011@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (d2d37177f8b0302090fec6169ab4d5d8)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (d2d37177f8b0302090fec6169ab4d5d8)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (d2d37177f8b0302090fec6169ab4d5d8)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Verify user registration msg:Proxy element for: DefaultElementLocator 'By.xpath: //div[@class ='header_user_info']/div[1]/span'
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (ae5e3bfd52107791e828295b195dcdeb)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest9211@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (ae5e3bfd52107791e828295b195dcdeb)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (ae5e3bfd52107791e828295b195dcdeb)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (ae5e3bfd52107791e828295b195dcdeb)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Verify user registration msg:Proxy element for: DefaultElementLocator 'By.xpath: //div[@class ='header_user_info']/div[1]/span'
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (a0aef1a807a06162eb420da4c87c9f90)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest9211@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (a0aef1a807a06162eb420da4c87c9f90)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest8711@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> id: SubmitCreate]
+Selected Geneder and object is :[[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> id: id_gender1]
+Entering the firstname and object is :giri
+ENtering the last name and object is :babu
+Enteing the password and object is :password
+ENtering the company name and object is :testing
+Entering the Address1 and object is :BTM
+Entering the City and Object is :Bangalore
+Selceting the state and object is :[[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> xpath: //select[@id='id_state']]
+entering the postal code and object is :35006
+ENtering the phone mobile and object is :86874545
+Entering the alias and object is :alias
+Verify user registration msg:Proxy element for: DefaultElementLocator 'By.xpath: //div[@class ='header_user_info']/div[1]/span'
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest8711@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> id: SubmitCreate]
+Clicking SignIn Button and object is:[[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+entering the email id and object is :giritest8711@gmail.com
+Clicking on submitCreate and object is : [[ChromeDriver: chrome on XP (ecb0e55e6c0169035c68f46f02cca923)] -> id: SubmitCreate]
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (9559e30fe4673b26aae6d705c86bc225)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+=========== Starting Verify add to cart ===========
+Browser Closed
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='header_user_info'][2]/a[@class='logout']'
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is [[ChromeDriver: chrome on XP (7cba132bc7246e5a6a26c007f5b50d6c)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+=========== Starting Verify add to cart ===========
+Browser Closed
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is [[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (ddebc2a888bc37743aee90c463da0173)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+=========== Starting Verify add to cart ===========
+Browser Closed
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is [[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (e92ff98517f78f81a23f2a6b93859e2e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+=========== Starting Verify add to cart ===========
+Browser Closed
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is [[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (d19ecff843cd6b4a997fe3fda5ff932e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+=========== Starting Verify add to cart ===========
+Browser Closed
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Enetred Email adress and object is [[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: .//*[@id='email']]
+Enetred Password and object is [[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: .//*[@id='passwd']]
+Clicked on Submit and object is Proxy element for: DefaultElementLocator 'By.id: SubmitLogin'
+logout button is displayed and object is[[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicked on Logout button and object is [[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: //div[@class='header_user_info'][2]/a[@class='logout']]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Clicking on SignIn object and object is [[ChromeDriver: chrome on XP (205ec3ef479ad6bae5a7900053d1fef2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+Browser Closed
+create objectchrome
+navigating tohttp://automationpractice.com/index.php
+=========== Starting Verify add to cart ===========
+Clicked on the Womens Navigation Button and object is Womens
+=========== Starting Verify add to cart ===========
+=========== Starting Verify add to cart ===========
+Browser Closed
